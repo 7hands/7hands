@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @7hands, a University student in Germany at BTU-Cottbus.
-- 👀 I’m interested in pixelate shaders and Pixel art, AI.
+- 👀 I’m interested in pixelate shaders and Pixel art, AI and stocks.
 - 🌱 I’m currently learning Python , OOP , AI
 <!---
 7hands/7hands is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
